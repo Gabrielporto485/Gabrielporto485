@@ -1,4 +1,4 @@
-Oi olá programadores!
+Olá programadores!
 
 Eu sou Gabriel Porto
 
