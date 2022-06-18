@@ -1,6 +1,8 @@
 Olá programadores!
 
-Eu sou Gabriel Porto
+Eu sou Gabriel Porto 
+
+Desenvolvedor Jr
 
 Estou cursando Engenharia de Software
 
